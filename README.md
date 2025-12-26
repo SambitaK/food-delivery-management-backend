@@ -89,7 +89,7 @@ GET    /api/deliveries/driver/{driverId}  # Driver's deliveries (DRIVER)
 PATCH  /api/deliveries/{id}/status        # Update delivery status (DRIVER)
 ```
 
-**Total:** 24 REST endpoints with role-based access control
+**Total:** 23 REST endpoints with role-based access control
 
 ##  Security
 
@@ -134,7 +134,7 @@ PATCH  /api/deliveries/{id}/status        # Update delivery status (DRIVER)
 **Protected Endpoints:** All sensitive operations (orders, payments, deliveries)  
 **Public Endpoints:** Registration, login, restaurant search, menu viewing
 
-## 👨‍💻 Author
+## 👨‍git Author
 
 **Sambita Khuntia**  
 📧 Email: somyasambita11@gmail.com  
