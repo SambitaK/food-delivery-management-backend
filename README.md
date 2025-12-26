@@ -134,7 +134,7 @@ PATCH  /api/deliveries/{id}/status        # Update delivery status (DRIVER)
 **Protected Endpoints:** All sensitive operations (orders, payments, deliveries)  
 **Public Endpoints:** Registration, login, restaurant search, menu viewing
 
-## 👨‍git Author
+## Author
 
 **Sambita Khuntia**  
 📧 Email: somyasambita11@gmail.com  
