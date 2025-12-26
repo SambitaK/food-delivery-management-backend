@@ -1,7 +1,6 @@
 # Food Delivery Management System
 A complete backend system for food delivery management built with Spring Boot, featuring JWT authentication and role-based access control.
 
-
 ## Overview
  
 This project is a backend system for food delivery management. It supports three users — customers, restaurants, and drivers. Customers place orders, restaurants prepare them, drivers deliver them, and the system manages everything automatically including assigning drivers, handling payments, and tracking orders in real time.
@@ -12,8 +11,7 @@ This project is a backend system for food delivery management. It supports three
 -  Secure registration and JWT-based authentication
 -  Search restaurants by zip code
 -  Browse menus and place orders with multiple items
--  Payment processing (Credit Card, PayPal)
--  Real-time order tracking and order history
+-  Payment processing
 
 ### Restaurant Features
 -  Menu management (add, update)
